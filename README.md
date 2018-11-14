@@ -103,3 +103,7 @@ Compare Different Machine Learning Models
 • Random Forest Classifier 
 
 • Support Vector Machine
+
+Class Imbalance Folder has 3 ipybn files:
+
+CapstoneProject1ClassImbalanceApproach1, CapstoneProject1ClassImbalanceApproach2, and CapstoneProject1ClassImbalanceApproach3 which includes the code for the project. The jpeg files are the image of different plot.
