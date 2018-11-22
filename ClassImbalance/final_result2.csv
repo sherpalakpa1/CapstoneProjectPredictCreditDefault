@@ -1,0 +1,4 @@
+,model,f1_score
+approach1,logistic_regression,0.5411113904953482
+approach2,random_forest,0.5722735674676525
+approach3,,
