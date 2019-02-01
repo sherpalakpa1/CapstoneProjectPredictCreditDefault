@@ -1,4 +1,6 @@
-# CapstoneProjectPredictCreditDefault
+﻿# CapstoneProjectPredictCreditDefault
+Overview
+This project is to build a classification model to predict credit card default. 
 Predict Credit Default
 The data set consists of 
 30,000 rows of records with 25 columns. You can download the excel file to acquire the data from the website. 
